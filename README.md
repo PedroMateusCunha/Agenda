@@ -1,2 +1,9 @@
-# URI
-Voltado para armazenamento de exercícios resolvidos do URI
+# AGENDA EM C
+
+Agenda de Contatos:
+
+Funções:
+-deletar
+-listar
+-inserir
+-sair
